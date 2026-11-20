@@ -1,0 +1,6 @@
+print("river"+"town")
+print("New"+"York")
+print("Hello, "+"World!")
+print("Python"+" is "+"awesome!")
+print("I "+"love "+"coding!")
+print("Una"+"rine!")
